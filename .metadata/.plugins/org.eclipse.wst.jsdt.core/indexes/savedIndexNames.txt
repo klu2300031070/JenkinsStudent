@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\KAMES\Downloads\Jenkins-FullStack\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+3085355112.index
+2019322067.index
+2059211842.index
+3274862365.index
+3739100835.index
