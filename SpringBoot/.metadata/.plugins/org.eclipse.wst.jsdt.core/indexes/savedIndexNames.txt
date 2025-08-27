@@ -1,7 +1,0 @@
-INDEX VERSION 1.4+C:\Users\KAMES\Downloads\SpringBoot\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
-3274862365.index
-2512180389.index
-3164864666.index
-2261666988.index
-2123929719.index
-3780192711.index
